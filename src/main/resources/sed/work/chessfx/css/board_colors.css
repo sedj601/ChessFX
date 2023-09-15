@@ -1,0 +1,20 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Sep 12, 2023, 1:48:55 PM
+    Author     : blj0011
+*/
+
+#cell-white-color{
+    -fx-background-color: papayawhip;
+}
+
+#cell-brown-color{
+    -fx-background-color: brown;
+}
+
+#gridpane-background-color{
+    -fx-background-color: black;
+}
